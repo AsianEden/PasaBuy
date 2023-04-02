@@ -44,7 +44,7 @@ public class Ticket2Me {
 			try {
 
 				// Navigate to the Ticket2Me event page
-				 driver.get("https://ticket2me.net/e/37030");
+				 driver.get("https://ticket2me.net/e/37033");
 
 				// test event
 				// driver.get("https://ticket2me.net/e/37463");
